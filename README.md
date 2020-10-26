@@ -1,12 +1,49 @@
-#### Hi,
-I'm going to cause the singularity and end the human race
+<div align="center">
+<img src="https://raw.githubusercontent.com/AlexMainstone/AlexMainstone/main/git-back.png" align="center" style="width: 100%" />
+</div>  
+  
 
-Skills: C++ / Java / Python
+### <div align="center">I'm Alex, an AI & Machine Learning Msc student at the University of Birmingham</div>  
+  
 
-- 🔭 I’m currently working on Machine Learning & Game Development 
-- 🌱 I’m currently learning rust 
-- 📫 How to reach me: alecsmainstone@gmail.com 
+- 🔭 I’m currently working on a variety of roguelike projects  
+  
+
+- 🌱 I’m currently learning rust  
+  
+
+- ❓ Ask me about anything related to roguelikes and gamedev  
+  
+
+<br/>  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlexMainstone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alexmainstone.com/)  
-![GitHub metrics](https://metrics.lecoq.io/AlexMainstone)  
+## My Skill Set  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexMainstone&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AlexMainstone&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
