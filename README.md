@@ -19,7 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++          23 mins         ██████████████░░░░░░░░░░░   55.38 % 
+Python       16 mins         █████████▒░░░░░░░░░░░░░░░   37.73 % 
+CMake        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 <!--END_SECTION:waka-->
 
