@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/AlexMainstone/AlexMainstone/main/git-back.png" align="center" style="width: 100%" />
 </div>  
-  
+  <img src="https://komarev.com/ghpvc/?username=AlexMainstone&&style=flat-square"/>
 
 ### <div align="center">I'm Alex, an AI & Machine Learning Msc student at the University of Birmingham</div>  
   
@@ -47,9 +47,5 @@ CMake        2 mins          █▓░░░░░░░░░░░░░░░
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexMainstone&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="center" /></div>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AlexMainstone&&style=flat-square" align="center" />
-</div>  
 
 <br />
