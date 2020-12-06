@@ -17,16 +17,6 @@
 
 <br/>  
 
-## Activity This Week
-<!--START_SECTION:waka-->
-```text
-C++          3 hrs 34 mins   ████████████████████▒░░░░   81.31 % 
-CMake        32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Python       16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-```
-<!--END_SECTION:waka-->
-
-
 ## My Skill Set  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
