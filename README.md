@@ -1,5 +1,5 @@
 <h1 align="center">I'm Alex Mainstone</h1>
-<h3 align="center">AI & Machine Learning graduate</h3>
+<h3 align="center">Msc AI & Machine Learning graduate</h3>
 
 - 🔭 I’m currently working on a [Roguelike Engine](https://github.com/AlexMainstone/cpp-engine)
 
