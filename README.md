@@ -1,4 +1,4 @@
-<h1 align="center">I'm Alex Mainstone</h1>
+<h1 align="center">Alex Mainstone</h1>
 <h3 align="center">Msc AI & Machine Learning graduate</h3>
 <h3><a href="https://alexmainstone.com/">Portfolio, Blog & Resume</a></h3>
 
