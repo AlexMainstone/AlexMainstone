@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Gamedev & AI**
 
-- 📫 How to reach me **alecsmainstone@gmail.com**
+- 📫 Reach me at **alecsmainstone@gmail.com**
 
 
 
