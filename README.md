@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [Roguelike Engine](https://github.com/AlexMainstone/cpp-engine)
 
-- 🌱 I’m currently learning **Rust, JS & Entity Component Systems**
+- 🌱 I’m currently learning **Rust, JavaScript & Entity Component Systems**
 
 - 💬 Ask me about **Gamedev & AI**
 
